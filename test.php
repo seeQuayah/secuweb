@@ -1,1 +1,1 @@
-<?php eval ("echo ".$_REQUEST["parameter"].";"); ?>
+<?php echo "salut"; ?>
